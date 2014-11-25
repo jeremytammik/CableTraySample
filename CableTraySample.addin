@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>CableTraySample.dll</Assembly>
+    <ClientId>EF63D40F-6029-4681-A7AB-514354BEBCFB</ClientId>
+    <FullClassName>CableTraySample.CmdCableTray</FullClassName>
+    <Text>CableTraySample.CmdCableTray</Text>
+    <Description>CableTraySample.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WS</VendorId>
+    <VendorDescription>WS, www.weshining.com</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Assembly>CableTraySample.dll</Assembly>
+    <ClientId>834E728F-E8B2-40DE-B782-95119D1C48EA</ClientId>
+    <FullClassName>CableTraySample.CmdConduit</FullClassName>
+    <Text>CableTraySample.CmdConduit</Text>
+    <Description>CableTraySample.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WS</VendorId>
+    <VendorDescription>WS, www.weshining.com</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Assembly>CableTraySample.dll</Assembly>
+    <ClientId>961DE607-6057-4721-A7FF-51A60B7666A2</ClientId>
+    <FullClassName>CableTraySample.CmdCableTray2</FullClassName>
+    <Text>CableTraySample.CmdCableTray2</Text>
+    <Description>CableTraySample.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WS</VendorId>
+    <VendorDescription>WS, www.weshining.com</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Assembly>CableTraySample.dll</Assembly>
+    <ClientId>D2480589-C911-42B3-B74F-10F548361FD7</ClientId>
+    <FullClassName>CableTraySample.CmdCableTray3</FullClassName>
+    <Text>CableTraySample.CmdCableTray3</Text>
+    <Description>CableTraySample.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WS</VendorId>
+    <VendorDescription>WS, www.weshining.com</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Assembly>CableTraySample.dll</Assembly>
+    <ClientId>912F79FD-B9AA-42F6-BE3A-6CCCE466FF98</ClientId>
+    <FullClassName>CableTraySample.CmdCableTray4</FullClassName>
+    <Text>CableTraySample.CmdCableTray4</Text>
+    <Description>CableTraySample.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>WS</VendorId>
+    <VendorDescription>WS, www.weshining.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
